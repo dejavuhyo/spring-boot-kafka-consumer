@@ -1,4 +1,4 @@
-# Spring Boot 3.2 Kafka Producer Consumer
+# Spring Boot 3.2 Kafka Consumer
 
 ## 1. 설명
 Spring Boot 3.2 Kafka Consumer 예제이다. 포트는 8081을 사용한다.
